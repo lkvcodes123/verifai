@@ -1,0 +1,5 @@
+yt-dlp
+moviepy>=1.0.3,<2
+SpeechRecognition
+openai>=0.28.1,<1
+pyttsx3
