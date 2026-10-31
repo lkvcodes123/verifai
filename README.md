@@ -2,7 +2,7 @@
 
 **HackSB 2025 winner — Varied Prizes**
 
-A Python desktop prototype that turns video audio into a transcript and uses AI to analyze its claims. Built as a team hackathon project, originally submitted under the Tick Tock Check project URL.
+A Python desktop prototype that turns video audio into a transcript and uses AI to analyze its claims. Built as a team hackathon project.
 
 [View the project and award on Devpost](https://devpost.com/software/tick-tock-check) · [HackSB 2025](https://hacksb.devpost.com/)
 
